@@ -1,23 +1,20 @@
-####Black Friday Sales Analysis
+# Black Friday Sales Analysis
 
-##Project Overview
+## 📌 Project Overview
 
-This Jupyter Notebook provides a comprehensive analysis of Black Friday sales data, focusing on customer purchasing behavior. The dataset includes key demographic details, product attributes, and sales figures. The goal is to understand purchasing trends and prepare data for predictive modeling.
+This Jupyter Notebook provides a comprehensive analysis of Black Friday sales data, focusing on customer purchasing behavior. 
 
-##Dataset Overview
+## 📊 Dataset Overview
 
 The dataset consists of:
 
-Customer Demographics: Age, gender, marital status, city type, and years spent in the current city.
+- **Customer Demographics**: Age, gender, marital status, city type, and years spent in the current city.
+- **Product Information**: Product ID, category, and related details.
+- **Sales Metrics**: Purchase amounts from the last month.
 
-Product Information: Product ID, category, and related details.
+## 🎯 Objectives
 
-Sales Metrics: Purchase amounts from the last month.
+- **Analyze customer purchasing behavior.**
+- **Identify key trends based on demographics and product categories.**
+- **Preprocess and prepare data for future predictive modeling.**
 
-##Objectives
-
-Analyze customer purchasing behavior.
-
-Identify key trends based on demographics and product categories.
-
-Preprocess and prepare data for future predictive modeling.
