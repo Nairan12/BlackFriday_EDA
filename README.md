@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Jupyter Notebook provides a comprehensive analysis of Black Friday sales data, focusing on customer purchasing behavior. 
+This Jupyter Notebook provides a comprehensive analysis of Black Friday sales data, focusing on customer purchasing behaviour. 
 
 ## Dataset Overview
 
@@ -18,7 +18,7 @@ The dataset consists of:
 - **Identify key trends based on demographics and product categories.**
 - **Preprocess and prepare data for future predictive modeling.**
 
-## Some Visualizations 
+## Visualizations 
 ![image](https://github.com/user-attachments/assets/1a279b1b-359a-45cc-899f-8284ab66462c)
 - Men purchase more than women
 
